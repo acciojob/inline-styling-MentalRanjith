@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body{
+	background:yellow;
+	text-align:center;
+
+}
+div{
+	margin:20px;
+	padding:10px;
+}
